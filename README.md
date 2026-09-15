@@ -1,0 +1,4 @@
+## Navigating the Future: The Role of Collaborative 
+Robots (Cobots) in Industry 5.0 
+
+Abstract—This report explores the unique features of Cobots, highlighting how the integration of machine learning algorithms can improve their adaptability and decision-making. Additionally, the report investigates the opportunities that Cobots creates by addressing workforce concerns, improving workplace safety, and offering flexible automation solutions, whilst also discussing the applications of Cobots in manufacturing, challenges brought by their implementation, as well as the ethical considerations surrounding their use. To collect information and data for analysis, several articles and papers of reliable authors were read. This report will also tackle some case studies regarding the implementation of cobots.
